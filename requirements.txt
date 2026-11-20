@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+matplotlib
+tabulate
+yfinance
+arch
+gymnasium
+stable-baselines3
+torch
